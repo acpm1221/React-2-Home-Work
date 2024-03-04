@@ -1,6 +1,4 @@
-/* style.css */
 
-/* Overall styles */
 body {
     background-image: url(https://e0.pxfuel.com/wallpapers/639/598/desktop-wallpaper-web-development.jpg);
     font-family: Arial, sans-serif;
@@ -30,7 +28,7 @@ p {
     font-weight: bold;
 }
 
-/* Make h5 tag blue and underline */
+
 h5 {
     color: blue;
     text-decoration: underline;
