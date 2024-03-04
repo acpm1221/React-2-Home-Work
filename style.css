@@ -1,0 +1,38 @@
+/* style.css */
+
+/* Overall styles */
+body {
+    background-image: url(https://e0.pxfuel.com/wallpapers/639/598/desktop-wallpaper-web-development.jpg);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    padding: 20px;
+    background-image: url(https://wallpapercave.com/wp/wp4923980.jpg);
+    
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #dbd8d8;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+    font-weight: bold;
+}
+
+/* Make h5 tag blue and underline */
+h5 {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
